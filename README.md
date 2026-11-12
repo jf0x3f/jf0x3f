@@ -16,8 +16,13 @@ I combine source code review with runtime testing to see how applications verify
 
 ## Certifications
 
-- Hack The Box Certified Penetration Testing Specialist (CPTS)
-- ISC2 Certified in Cybersecurity (CC)
+- Certified Penetration Testing Specialist (CPTS) — Hack The Box
+- Certified in Cybersecurity (CC) — ISC2
+- Certified Web Penetration Tester — Appkademiya
+- Cybersecurity Awareness Professional Certificate — Certiprof
+- Certified Cybersecurity Educator Professional — RedTeam Leaders
+- Certified Web Red Team Analyst — CyberWarFare Labs
+- Certified Web Penetration Tester - Professional — Appkademiya
 
 ## Hall of Fame / Acknowledgement
 
