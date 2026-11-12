@@ -1,8 +1,8 @@
 # John Fiel Brosas
 
-I'm an offensive security engineer and web developer. I build web applications and APIs, review how they handle authentication and trust, and write about what I learn through authorized security research.
+I'm an offensive security engineer and web developer. I build Next.js applications in TypeScript and work on PHP APIs and background workers. I use Python to automate testing and analyze results.
 
-I work with JavaScript, TypeScript, and PHP on web applications, and use Python for testing and automation.
+I combine source code review with runtime testing to see how applications verify identity, enforce authorization, and handle untrusted input. My published research covers TLS certificate validation, XML signature verification, service authentication, and parser complexity.
 
 ## Selected writing
 
