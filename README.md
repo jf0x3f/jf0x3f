@@ -2,7 +2,7 @@
 
 I'm an offensive security engineer and web developer. I build Next.js applications in TypeScript and work on PHP APIs and background workers. I use Python to automate testing and analyze results.
 
-I combine source code review with runtime testing to see how applications verify identity, enforce authorization, and handle untrusted input. My published research covers TLS certificate validation, XML signature verification, service authentication, and parser complexity.
+I combine source code review with runtime testing to see how applications verify identity, enforce authorization, and handle untrusted input. I find security flaws in networks, applications, and cloud infrastructure through authorized ethical hacking. My published research covers TLS certificate validation, XML signature verification, service authentication, and parser complexity.
 
 ## Selected writing
 
