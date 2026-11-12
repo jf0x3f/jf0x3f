@@ -19,4 +19,16 @@ I combine source code review with runtime testing to see how applications verify
 - Hack The Box Certified Penetration Testing Specialist (CPTS)
 - ISC2 Certified in Cybersecurity (CC)
 
+## Hall of Fame / Acknowledgement
+
+- Microsoft
+- SAP
+- MediaTek
+- Siemens
+- World Health Organization
+- United Nations
+- NASA
+- PinoyJobsOnline
+- Others
+
 [Website](https://jfbrosas.com/) · [LinkedIn](https://www.linkedin.com/in/john-fiel-brosas/)
