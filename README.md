@@ -2,7 +2,7 @@
 
 I'm an offensive security engineer and web developer. I build web applications, assess the security of software and infrastructure through authorized testing, and publish research on what I find.
 
-## Selected writing
+## Selected writeups
 
 - [TCL TV remote code execution](https://jfbrosas.com/writeups/tcl-tv-unauthenticated-lan-rce/) traces a flaw in how a TCL TV processed commands from the local network.
 - [Apache Thrift C++ TLS identity confusion](https://jfbrosas.com/writeups/apache-thrift-cpp-tls-reference-identity/) explains how the client checked certificate identities for hostnames and IP addresses. It follows the change through the [merged upstream fix](https://github.com/apache/thrift/pull/4055).
@@ -38,7 +38,7 @@ I'm an offensive security engineer and web developer. I build web applications, 
 - Certified Web Red Team Analyst — CyberWarFare Labs
 - Certified Web Penetration Tester - Professional — Appkademiya
 
-## Hall of Fame / Acknowledgement
+## Hall of Fame / Acknowledgements
 
 - Microsoft
 - SAP
