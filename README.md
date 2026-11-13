@@ -4,12 +4,12 @@ I'm an offensive security engineer and web developer. I build web applications, 
 
 ## Selected writeups
 
-- [TCL TV remote code execution](https://jfbrosas.com/writeups/tcl-tv-unauthenticated-lan-rce/) traces a flaw in how a TCL TV processed commands from the local network.
-- [Apache Thrift C++ TLS identity confusion](https://jfbrosas.com/writeups/apache-thrift-cpp-tls-reference-identity/) explains how the client checked certificate identities for hostnames and IP addresses. It follows the change through the [merged upstream fix](https://github.com/apache/thrift/pull/4055).
-- [xmlseclibs RSA-to-HMAC key confusion](https://jfbrosas.com/writeups/xmlseclibs-rsa-hmac-key-confusion/) examines how inconsistent key handling undermined XML signature verification.
-- [Laravel Nightwatch agent shutdown](https://jfbrosas.com/writeups/nightwatch-unauthenticated-agent-shutdown/) examines how missing authentication affected the monitoring agent's availability.
-- [HTML-to-Markdown quadratic parsing](https://jfbrosas.com/writeups/html-to-markdown-quadratic-dos/) shows how small documents can require disproportionately expensive conversions.
-- [GrumPHP option injection](https://jfbrosas.com/writeups/grumphp-option-injection/) examines what happens when developer tooling treats filenames as command options.
+- [TCL TV remote code execution](https://jfbrosas.com/writeups/tcl-tv-unauthenticated-lan-rce/) From a LAN scan to code execution: tracing an unauthenticated TCL TV command chain
+- [Apache Thrift C++ TLS identity confusion](https://jfbrosas.com/writeups/apache-thrift-cpp-tls-reference-identity/) Apache Thrift C++ TLS identity confusion
+- [xmlseclibs RSA-to-HMAC key confusion](https://jfbrosas.com/writeups/xmlseclibs-rsa-hmac-key-confusion/) XML signature forgery via DER-loaded public keys bypasses xmlseclibs 4.0.0 RSA-to-HMAC key-confusion fix.
+- [Laravel Nightwatch agent shutdown](https://jfbrosas.com/writeups/nightwatch-unauthenticated-agent-shutdown/) Six bytes to silence: an unauthenticated kill switch in Laravel Nightwatch
+- [HTML-to-Markdown quadratic parsing](https://jfbrosas.com/writeups/html-to-markdown-quadratic-dos/) HTML-to-Markdown quadratic parsing: small documents, expensive conversions
+- [GrumPHP option injection](https://jfbrosas.com/writeups/grumphp-option-injection/) GrumPHP option injection: from a staged filename to code execution
 - [Security writeups](https://jfbrosas.com/writeups/) collects my notes from security labs, certification study, and practical research.
 
 ## Security Contributions
