@@ -12,7 +12,7 @@ I'm an offensive security engineer and web developer. I build web applications, 
 - [GrumPHP option injection](https://jfbrosas.com/writeups/grumphp-option-injection/) examines what happens when developer tooling treats filenames as command options.
 - [Security writeups](https://jfbrosas.com/writeups/) collects my notes from security labs, certification study, and practical research.
 
-## Library/Package Security Contributions
+## Security Contributions
 
 - [Laravel Reverb](https://github.com/laravel/reverb/security/advisories/GHSA-jg2j-vmc9-5m2p)
 - [Laravel Nightwatch](https://github.com/laravel/nightwatch/security/advisories/GHSA-gq2x-q923-f9f8)
