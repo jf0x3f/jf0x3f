@@ -6,6 +6,7 @@ I'm an offensive security engineer and web developer. I build web applications, 
 
 ## Selected writeups
 
+- ✨ [Laravel Reverb max_connections limit bypass](https://jfbrosas.com/writeups/laravel-reverb-connection-limit-bypass/) allows unauthenticated connection exhaustion
 - 📺 [TCL TV remote code execution](https://jfbrosas.com/writeups/tcl-tv-unauthenticated-lan-rce/) From a LAN scan to code execution: tracing an unauthenticated TCL TV command chain
 - 🔐 [Apache Thrift C++ TLS identity confusion](https://jfbrosas.com/writeups/apache-thrift-cpp-tls-reference-identity/) Apache Thrift C++ TLS identity confusion
 - 🧾 [xmlseclibs RSA-to-HMAC key confusion](https://jfbrosas.com/writeups/xmlseclibs-rsa-hmac-key-confusion/) XML signature forgery via DER-loaded public keys bypasses xmlseclibs 4.0.0 RSA-to-HMAC key-confusion fix.
