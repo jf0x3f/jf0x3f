@@ -2,6 +2,8 @@
 
 I'm an offensive security engineer and web developer. I build web applications, assess the security of software and infrastructure through authorized testing, and publish research on what I find.
 
+[Linkedin](https://www.linkedin.com/in/john-fiel-brosas)
+
 ## Selected writeups
 
 - [TCL TV remote code execution](https://jfbrosas.com/writeups/tcl-tv-unauthenticated-lan-rce/) From a LAN scan to code execution: tracing an unauthenticated TCL TV command chain
